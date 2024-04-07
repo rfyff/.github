@@ -1,6 +1,6 @@
 # Discover the Reach 4 Your Future Foundation
 
-![logo](../assets/logo.png)
+![logo](/assets/logo.png)
 
 ## Our Commitment
 We believe that education should be more than just academic fulfilment and success.\
