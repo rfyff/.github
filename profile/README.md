@@ -1,12 +1,6 @@
 # Discover the Reach 4 Your Future Foundation
 
-<img src="logo.png" style="width: 70%; height: 50%"/>
-
-<img src="/logo.png" style="width: 70%; height: 50%"/>
-
 <img src="./logo.png" style="width: 70%; height: 50%"/>
-
-<!-- <img src="../logo.png" style="width: 70%; height: 50%"/> -->
 
 ## Welcome!
 We are passionate about making a positive impact on the lives of students, families, and communities through meaningful educational experiences.
