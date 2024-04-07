@@ -1,2 +1,4 @@
-# .github
-Public Repository for R4YFF.
+# About rfyff/.github
+> rfyff/.github is a special repository.
+>
+> The /profile/README.md will appear on the organization's profile.
